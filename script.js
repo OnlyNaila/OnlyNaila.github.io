@@ -14,7 +14,7 @@ gif.src =
 
 "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp"; });
 
-noBtn.addEventListener("mouseover", () {
+noBtn.addEventListener("mouseover", () => {
 
 const noBtnRect = noBtn.getBoundingClientRect();
 
