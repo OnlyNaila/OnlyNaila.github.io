@@ -22,8 +22,8 @@ const maxX = window.innerWidthnoBtnRect.width;
 
 const maxY = window.innerHeight noßtnRect.height;
 
-const randomX = Math.floor(Math.random() maxx);
+const randomX = Math.floor(Math.random() * maxx);
 
-const randomY = Math.floor(Math.random() maxY);
+const randomY = Math.floor(Math.random() * maxY);
 
 noßtn.style.left = randomX + "px"; noBtn.style.top randomY + "px"; });
